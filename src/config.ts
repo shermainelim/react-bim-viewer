@@ -1,0 +1,1 @@
+export const MAPBOX_KEY = "pk.eyJ1Ijoic2hlcm1haW5lbGltIiwiYSI6ImNsZmt2bjVwMzBld20zeHBlZW5lMXF3ejcifQ.7cfsFVeJaUyMZu4r_P7b7g";
